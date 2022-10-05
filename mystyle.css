@@ -1,0 +1,53 @@
+body {
+    background-color: white;
+  }
+  
+  h1 {
+    color: navy;
+    margin-left: 1em;
+  }
+
+  h2 {
+    color: navy;
+    margin-left: 1.5em;
+  }
+
+  ul.a {
+    list-style-type: circle;
+    margin-left: 2em;
+  }
+
+  ul.home {
+    list-style-type: circle;
+  }
+
+  ul.navi {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    margin-left: 1em;
+    margin-right: 1em;
+  }
+  
+  li.navi {
+    float: left;
+  }
+  
+  li a.navi {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 0.5em 1.8em;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover.navi {
+    background-color: #111;
+  }
+
+  img.profile {
+    margin-left: 2em;
+  }
