@@ -15,10 +15,12 @@ body {
   ul.a {
     list-style-type: circle;
     margin-left: 2em;
+    line-height: 1.5;
   }
 
   ul.home {
     list-style-type: circle;
+    line-height: 1.5;
   }
 
   ul.navi {
