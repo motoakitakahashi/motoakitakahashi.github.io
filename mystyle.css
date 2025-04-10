@@ -53,3 +53,7 @@ body {
   img.profile {
     margin-left: 2em;
   }
+
+  .journal {
+    font-style: italic;
+  }
